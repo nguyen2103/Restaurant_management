@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|c:\\users\\admin\\onedrive\\desktop\\quanlynhahangvkat_final\\quanlynhahangvkat\\quanlynhahangvkat\\dto\\menudata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dto\\menudata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dao\\accountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dao\\accountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\faccountiformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\faccountiformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\flogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\flogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dao\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dao\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\resources\\logo vkat.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\resources\\logo vkat.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\resources\\admin1.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\resources\\admin1.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\faccountiformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\faccountiformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\loaimonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\usermonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\usermonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\quanlynhahangvkat\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAADE4-65CE-452A-B6F6-63E81CD9814F}|QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT.csproj|solutionrelative:quanlynhahangvkat\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\MenuData.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DTO\\MenuData.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\MenuData.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DTO\\MenuData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:20:18.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\BillInfo.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DTO\\BillInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\BillInfo.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DTO\\BillInfo.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:48:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Category.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DTO\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Category.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DTO\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:48:28.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Food.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DTO\\Food.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Food.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DTO\\Food.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:48:30.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Bill.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DTO\\Bill.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Bill.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DTO\\Bill.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:48:17.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:38:15.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Account.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DTO\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Account.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DTO\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:40:37.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "flogin.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\flogin.resx",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\flogin.resx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\flogin.resx",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\flogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-14T14:52:14.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\AccountProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DAO\\AccountProvider.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\AccountProvider.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DAO\\AccountProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:49:40.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fAccountIformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAccountIformation.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\fAccountIformation.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAccountIformation.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\fAccountIformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:41:42.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "flogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\flogin.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\flogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\flogin.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\flogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:08.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "flogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\flogin.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\flogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\flogin.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\flogin.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\MenuDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DAO\\MenuDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\MenuDAO.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DAO\\MenuDAO.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:03:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\FoodDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DAO\\FoodDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DAO\\FoodDAO.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DAO\\FoodDAO.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:08.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Table.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\DTO\\Table.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\DTO\\Table.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\DTO\\Table.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:48:32.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\Program.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:21:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoaiMonAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\LoaiMonAn.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\LoaiMonAn.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\LoaiMonAn.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\LoaiMonAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:07.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fTableManager.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "doanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\doanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\doanhThu.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\doanhThu.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\doanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:48:54.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\fAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:43:00.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "admin1.jpeg",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\Resources\\admin1.jpeg",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\Resources\\admin1.jpeg",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\Resources\\admin1.jpeg",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\Resources\\admin1.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-14T10:21:13.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logo VKAT.jpg",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\Resources\\Logo VKAT.jpg",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\Resources\\Logo VKAT.jpg",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\Resources\\Logo VKAT.jpg",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\Resources\\Logo VKAT.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-14T10:21:17.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fAccountIformation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAccountIformation.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\fAccountIformation.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAccountIformation.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\fAccountIformation.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:07.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fAdmin.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\fAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:53:01.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "fTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\fTableManager.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\fTableManager.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:08.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoaiMonAn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\LoaiMonAn.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\LoaiMonAn.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\LoaiMonAn.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\LoaiMonAn.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:07.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\TaiKhoan.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\TaiKhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:07.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserMonAn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\UserMonAn.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\UserMonAn.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\UserMonAn.cs",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\UserMonAn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHangVKAT\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\QuanLyNhaHangVKAT_Final\\QuanLyNhaHangVKAT\\QuanLyNhaHangVKAT\\TaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHangVKAT\\TaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:56:07.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
